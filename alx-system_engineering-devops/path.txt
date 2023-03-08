@@ -1,1 +1,0 @@
-The absolute path name of the current working directory is: /root/alx-system_engineering-devops/alx-system_engineering-devops
