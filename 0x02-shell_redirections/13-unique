@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -v -f <(sort <(printf "%s\n" "$(< /dev/stdin)" | sort | uniq -d)) <(printf "%s\n" "$(< /dev/stdin)") | sort
+sort | uniq -u
